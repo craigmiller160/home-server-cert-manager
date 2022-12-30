@@ -1,0 +1,6 @@
+{
+  "name": "@craigmiller160/cert-manager",
+  "version": "1.0.0",
+  "namespace": "infra-prod",
+  "type": "application"
+}
